@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Balls1 from './isaiah.jpg';
 import Balls2 from './david.png';
+import Balls1 from './isaiah.jpg';
 
 let currentImage = Balls1
 
