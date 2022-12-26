@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Balls1 from './isaiah.png';
+import Balls1 from './isaiah.jpg';
 import Balls2 from './david.png';
 
 let currentImage = Balls1
